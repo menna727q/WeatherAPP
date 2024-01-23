@@ -64,7 +64,8 @@ nav .navbar-brand p{
     outline: none;
 }
 .search button{
-    right: 210px;
+    top: 54px;
+    right: 54px;
     background-color: #009ad8;
     color: white;
     outline: none;
